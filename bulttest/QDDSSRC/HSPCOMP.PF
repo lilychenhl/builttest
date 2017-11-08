@@ -15,4 +15,4 @@
      A                                      COLHDG('Company Text')
      A            WDELT     R               REFFLD(A1)
      A                                      COLHDG('Deletion Flag')
-     A* Test for jenkins arcad auto build
+     A* Test for jenkins arcad auto build1
